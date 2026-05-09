@@ -1,7 +1,7 @@
 # California Housing - Machine Learning Project
 
-## Authors
-[МУханбеткерей Каримов]
+## Author
+[Рақымжан Муханбеткерей]
 
 ## Project Overview
 **Реализация алгоритмов машинного обучения с нуля** на основе набора данных California Housing. Этот проект демонстрирует:
